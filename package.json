@@ -1,6 +1,6 @@
 {
 	"name": "openai-status-types",
-	"version": "1.0.0",
+	"version": "1.0.5",
 	"description": "",
 	"types": "./index.d.ts",
 	"scripts": {
