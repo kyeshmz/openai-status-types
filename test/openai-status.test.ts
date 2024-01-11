@@ -3,7 +3,7 @@ import type {
 	OpenAIComponentStatus,
 	OpenAIIncident,
 	OpenAIStatus,
-} from "../src/index.d.ts";
+} from "../src/index.ts";
 import {
 	BlendedStatus,
 	ComponentStatus,
