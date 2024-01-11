@@ -18,6 +18,7 @@ export enum BlendedStatus {
 	AllSystemsOperational = "All Systems Operational",
 	PartialSystemOutage = "Partial System Outage",
 	MajorServiceOutage = "Major Service Outage",
+	MinorServiceOutage = "Minor Service Outage",
 	PartiallyDegradedService = "Partially Degraded Service",
 }
 
