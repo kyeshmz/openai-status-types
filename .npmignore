@@ -2,3 +2,4 @@ test/**
 bun.lockb
 vitest.config.ts
 renovate.json
+.github/
